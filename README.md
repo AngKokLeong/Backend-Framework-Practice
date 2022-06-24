@@ -1,1 +1,11 @@
 # Backend-Framework-Practice
+
+
+Todo: Create new folder for each technology practiced and within this folder create
+new folder for each version of the technology practiced
+
+
+- Spring Boot
+- ASP.NET
+- Codeigniter
+- Ruby on rails
